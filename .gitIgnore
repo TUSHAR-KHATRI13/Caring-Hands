@@ -1,0 +1,5 @@
+/node_modules
+/backend/node_modules
+/backend/data/.env
+/frontend/node_modules
+/frontend/.gitIgnore
